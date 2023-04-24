@@ -1,4 +1,6 @@
-const allowedOrigins = ["https://3oyb95.csb.app"];
+const allowedOrigins = [
+  "https://mern-note.onrender.comhttps://mern-note.onrender.comhttps://mern-note.onrender.com",
+];
 const corsOptions = {
   origin: (origin, callback) => {
     if (allowedOrigins.indexOf(origin) !== -1 || !origin) {

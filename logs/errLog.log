@@ -1,0 +1,2 @@
+20230501	20:11:08	3d42e4ac-500e-4369-9159-d9cca75bce27	ValidationError: Note validation failed: user: Cast to ObjectId failed for value "admin" (type string) at path "user" because of "BSONError"	POST	/notes	undefined
+20230501	20:11:46	6583ead3-43b4-43d5-8d84-0e5e35a646e3	ValidationError: Note validation failed: user: Cast to ObjectId failed for value "admin" (type string) at path "user" because of "BSONError"	POST	/notes	undefined
